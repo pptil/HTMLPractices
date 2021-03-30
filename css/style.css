@@ -1,0 +1,57 @@
+  body{
+    color: #a3a3a3;
+    font-family: 'Open Sans', sans-serif;;
+    font-size: 13px;
+    margin: 0px;
+  }
+
+  p{
+    line-height: 20px;
+    text-align: justify;
+  }
+
+
+footer p{
+text-align: right;
+padding: 30px;
+  }
+
+  ul{
+    float: right;
+    /*display: inline-block;*/
+  }
+
+  ul li{
+    display: inline-block;
+  }
+
+  nav ul li a{
+    background: #78909c;
+    text-decoration: none;
+    padding: 20px;
+    color: white;
+  }
+
+  nav ul li a:hover{
+    color: black;
+  }
+
+  .logo{
+    width: 10%;
+  }
+
+  section{
+    width: 80%;
+    margin: auto;
+    min-height: 70vh;
+  }
+
+  footer{
+    background: #546e7a;
+    height: 200px;
+  }
+  .card{
+    width: 48%;
+    margin: 1%;
+    float: left;
+  }
